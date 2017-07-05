@@ -1,0 +1,29 @@
+{
+  "name": "awswrapper",
+  "version": "1.0.0",
+  "description": "Custom aws wrapper to manage aws instances. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rama41222/AWSWrapper.git"
+  },
+  "keywords": [
+    "nodejs",
+    "restapi"
+  ],
+  "author": "rama41222",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rama41222/AWSWrapper/issues"
+  },
+  "homepage": "https://github.com/rama41222/AWSWrapper#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1"
+  }
+}
